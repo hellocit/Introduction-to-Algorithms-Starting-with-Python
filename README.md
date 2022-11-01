@@ -8,3 +8,5 @@ c++
 
 directory
 * /mnt/c/Users/nakamurayuiti/Anaconda3
+雑References
+* https://hacknote.jp/archives/5542/
